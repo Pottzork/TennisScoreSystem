@@ -1,0 +1,9 @@
+C:\Users\andre\source\repos\NewTennisScoreSystem\NewTennisScoreSystem\bin\Debug\NewTennisScoreSystem.exe.config
+C:\Users\andre\source\repos\NewTennisScoreSystem\NewTennisScoreSystem\bin\Debug\NewTennisScoreSystem.exe
+C:\Users\andre\source\repos\NewTennisScoreSystem\NewTennisScoreSystem\bin\Debug\NewTennisScoreSystem.pdb
+C:\Users\andre\source\repos\NewTennisScoreSystem\NewTennisScoreSystem\obj\Debug\NewTennisScoreSystem.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\NewTennisScoreSystem\NewTennisScoreSystem\obj\Debug\NewTennisScoreSystem.Form1.resources
+C:\Users\andre\source\repos\NewTennisScoreSystem\NewTennisScoreSystem\obj\Debug\NewTennisScoreSystem.Properties.Resources.resources
+C:\Users\andre\source\repos\NewTennisScoreSystem\NewTennisScoreSystem\obj\Debug\NewTennisScoreSystem.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\NewTennisScoreSystem\NewTennisScoreSystem\obj\Debug\NewTennisScoreSystem.exe
+C:\Users\andre\source\repos\NewTennisScoreSystem\NewTennisScoreSystem\obj\Debug\NewTennisScoreSystem.pdb
